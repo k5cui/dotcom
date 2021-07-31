@@ -1,0 +1,41 @@
+.background-fade{
+  -webkit-transition: background-color 2s;
+  transition: background-color 2s;
+}
+
+.color-fade{
+  -webkit-transition: color 1s;
+  transition: color 1s;
+}
+
+.astext {
+  background:none;
+  border:none;
+  margin:0;
+  padding:0;
+  cursor: pointer;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+}
+
+text {
+  font-family: 'PT Serif', serif;
+}
+
+.lighting-box {
+  max-width: 150px;
+  max-height: 150px;
+  width: auto;
+  height: auto;
+}
+
+body {
+  margin: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
