@@ -18,10 +18,20 @@
 
 h1 {
   font-family: 'Poppins', sans-serif;
+  -webkit-transition: color 1s;
+  transition: color 1s;
 }
 
 text {
   font-family: 'PT Serif', serif;
+  -webkit-transition: color 1s;
+  transition: color 1s;
+}
+
+p {
+  font-family: 'PT Serif', serif;
+  -webkit-transition: color 1s;
+  transition: color 1s;
 }
 
 .lighting-box {
@@ -29,6 +39,7 @@ text {
   max-height: 150px;
   width: auto;
   height: auto;
+  cursor: pointer;
 }
 
 body {
