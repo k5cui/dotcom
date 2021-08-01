@@ -5,8 +5,8 @@ import moon from './images/moon.png';
 import resume from './files/resume.pdf';
 import text from './files/text.json';
 import email from './images/email.svg';
-import github from './images/github.svg';
-import linkedin from './images/linkedin.svg';
+// import github from './images/github.svg';
+// import linkedin from './images/linkedin.svg';
 
 function App() {
 
