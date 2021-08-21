@@ -16,6 +16,10 @@
   cursor: pointer;
 }
 
+.svg-color >svg >path{
+  fill: currentColor;
+}
+
 h1 {
   font-family: 'Poppins', sans-serif;
   -webkit-transition: color 1s;
