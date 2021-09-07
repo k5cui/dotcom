@@ -83,14 +83,14 @@ function App() {
               @Finastra
             </a>
           </p>
-          <p>
+          <p style={{ color: fontColor }}>
             <text>You can learn more about the things I've done in </text>
             <button 
-              class='astext'
+              class='astext text-button'
               onClick={openResume}
-              style={{ width: 'fit-content', color: fontColor }}
+              style={{ width: 'fit-content' }}
             >
-                <a>my resume</a>
+                my resume
             </button>
             .
           </p>

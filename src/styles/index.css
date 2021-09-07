@@ -8,6 +8,19 @@
   transition: color 1s;
 }
 
+.text-button {
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+  color: #f7ae38;
+  font-size: 16px;
+  -webkit-transition: color 0.5s;
+  transition: color 0.5s;
+}
+
+.text-button:hover {
+  color: inherit;
+}
+
 .astext {
   background:none;
   border:none;
