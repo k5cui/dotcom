@@ -3,9 +3,6 @@ import { useState } from 'react';
 import sun from './images/sun.png';
 import moon from './images/moon.png';
 import resume from './files/resume.pdf';
-import email from './images/email.svg';
-import github from './images/github.svg';
-import linkedin from './images/linkedin.svg';
 import text from './files/text.json';
 
 function App() {
