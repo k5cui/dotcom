@@ -78,11 +78,11 @@ function App() {
             <a href="https://www.d2l.com/" target="_blank" rel="noreferrer">
               @D2L
             </a>
-            <text>, </text>
+            <br />
             <a href="https://www.deloitte.com/" target="_blank" rel="noreferrer">
               @Deloitte
             </a>
-            <text>, </text>
+            <br />
             <a href="https://www.finastra.com/" target="_blank" rel="noreferrer">
               @Finastra
             </a>
